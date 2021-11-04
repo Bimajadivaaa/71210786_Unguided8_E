@@ -1,0 +1,3 @@
+Diketahui terdapat 7 gelas kosong yang mau diisi dengan air.  Lalu, pertanyannya gelas mana yang terisi lebih dahulu?
+Penjelasan :
+Gelas yang akan terisi lebih dahulu adalah gelas nomer 2. Karena, gelas nomer 2 tidak menyalurkan air ke gelas nomer 1 dan 3 dikarenakan pipa celah untuk menyalurkan air ke gelas 1 dan 3 itu ditutup. itu dapat menyebabkan gelas 2 yang dapat terisi penuh terlebih dahulu.
