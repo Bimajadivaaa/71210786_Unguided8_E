@@ -1,0 +1,16 @@
+n=2
+i=1 dan 2
+i=1 atau i=2 fibonacci(i)=i
+i<6 i<8
+
+i, n, fibonacci(i): integer
+
+input n
+if i=1 atau i=2 then
+	print “fibonacci(i)=i”
+else
+	while i<6 dan i<8 do
+	fibonacci(i)=fibonacci(i+5)+fibonacci(i+6)
+	print fibonacci(i)
+	i=i+5
+	end
